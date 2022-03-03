@@ -19,8 +19,6 @@ My research explores how speakers extend familiar forms to novel contexts, and f
 
 ### Areas of Interest
 
----
-
 - Computational modeling including probabilistic and connectionist models
 - Usage-based and experience-based influences on language development and learning
 - Automaticity, sequential learning, and chunking in language
