@@ -21,7 +21,7 @@ My research explores how speakers extend familiar forms to novel contexts, and f
 
 ---
 
-- Computational modeling including Bayesian/probabilistic models of language and neural language models
+- Computational modeling including probabilistic and connectionist models
 - Usage-based and experience-based influences on language development and learning
 - Automaticity, sequential learning, and chunking in language
 - Accessibility-driven language production and its effect on generalization and semantic extension (creativity)
