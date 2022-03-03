@@ -13,7 +13,7 @@ I am a post-doctoral associate at the University of Maryland Institute for Advan
 
 ---
 
-Areas of Interest
+# Areas of Interest
 
 ---
 
