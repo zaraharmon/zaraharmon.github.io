@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 
-I am a post-doctoral associate at the University of Maryland Institute for Advanced Computer Studies (UMIACS) and the Department of Linguistics and a postdoc affiliate of the program in Neuroscience and Cognitive Science (NACS). I received my PhD from the University of Oregon in 2019. My research explores how speakers extend familiar forms to novel contexts, and factors that influence the ease or difficulty of this process. More specifically, I study how contextual cues and top-down cues influence generalization and productivity, and how these cues interact during learning. At UMD, I work with Naomi Feldman and Jan Edwards. I am using probabilistic models to investigate problems with productivity of grammatical morphemes in the speech of children with Developmental Language Disorder (DLD). 
+I am a post-doctoral associate at the University of Maryland Institute for Advanced Computer Studies (UMIACS) and the Department of Linguistics and a postdoc affiliate of the program in Neuroscience and Cognitive Science (NACS). I received my PhD from the University of Oregon Department of Linguistics in 2019 under the supervision of Volya Kapatsinski. My dissertation is about "Accessibility-driven Language Production" and its effect on language change through semantic extension. 
+
+After completing my PhD, I joined the University of Maryland UMIACS and the Department of Linguistics to work with Naomi Feldman and Jan Edwards on a computational modeling project. The goal of the project is to model morphological productivity in the speech of children with Developmental Language Disorder (DLD) and inform interevention efforts. 
+
+My research explores how speakers extend familiar forms to novel contexts, and factors that influence the ease or difficulty of this process. More specifically, I study how contextual cues and top-down cues influence generalization and productivity, and how these cues interact during learning. See my publication page for more information. I am currently a member of the Computational Linguistics and Information Processing (CLIP) lab.
 
 ---
 
