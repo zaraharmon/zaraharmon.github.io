@@ -11,7 +11,7 @@ citation: 'Harmon, Z., & Kapatsinski, V. (2021). A theory of repetition and retr
 
 [Download paper here](https://psycnet.apa.org/record/2021-62984-001)
 
-Harmon, Z., & Kapatsinski, V. (2021). A theory of repetition and retrieval in language production. <i>Psychological Review1</i>, 128(6), 1112–1144.
+Harmon, Z., & Kapatsinski, V. (2021). A theory of repetition and retrieval in language production. <i>Psychological Review</i>, 128(6), 1112–1144.
 
 
 
