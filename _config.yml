@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=zara+harmon"
   googlescholar    : "https://scholar.google.com/citations?user=k9OkYpwAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "zharmon@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -176,13 +176,13 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -215,9 +215,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: false
-      share: false
-      comments: false
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -233,9 +233,9 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
-      share: false
-      comment: false
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
