@@ -1,7 +1,7 @@
 ---
 title: "Accessibility-driven Language Production"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-1
+permalink:
 excerpt: ''
 date: 2017-08-06
 venue: 'Cognitive Psychology'
