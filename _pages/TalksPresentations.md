@@ -23,12 +23,18 @@ Morphological productivity: What do we learn from comprehension and production?.
 
 
 # Conference Presentations
-Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensationaccount of Developmental Language Disorder. Poster presented at the 62ndAnnual Meeting ofthe Psychonomic Society
+Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensationaccount of Developmental Language Disorder. Poster presented at the 62ndAnnual Meeting ofthe Psychonomic Society.
+
 Barak, L., Harmon, Z., Feldman, N., Edwards, J., & Shafto, P. (2021). A Computational analysis oflanguage delay and intervention. Talk presented at BUCLD 46.
+
 Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). Making Heads or Tails of it: ACompetitionCompensation Account of Morphological Deficits in Language Impairment. Poster presented at the 43rdAnnual Conference of the Cognitive Science Society.
+
 Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The role of novelty inaccounting formorphological deficits of children with Developmental Language Disorder: A computational modelingstudy. Poster presented at the 41stAnnual, Virtual Symposium on Research in Child LanguageDisorders.
+
 Barak, L., Harmon, Z., Feldman, N., Edwards, J., & Shafto, P. (2020). Bare form production for past-tense: A computational analysis of 3 accounts. Paper presented at BUCLD 45. Boston, MA.
+
 Harmon, Z. & Kapatsinski, V. (2020). The best-laid plan of mice and men: Competition between top-down and preceding-item cues in plan execution. Poster presented at the 42ndAnnual Conference ofthe Cognitive Science Society.
+
 Kapatsinski, V., Harmon, Z., & Idemaru, K. (2020). Phonetic cue reweighting is error-driven anddimension-based. Poster presented at BUCLD 45. Boston, MA.
 Harmon, Z., & Kapatsinski, V. (2018). Competition between top-down and preceding-item cues in speechproduction. Paper presented at the 59thAnnual Meeting of Psychonomic Society, New Orleans, LA.
 Harmon, Z., Idemaru, K., & Kapatsinski, V. (2017). Distributional learning in phonetic cue weighting:Letting go of a previously informative cue. Poster presented at BUCLD 42, Boston, MA.
