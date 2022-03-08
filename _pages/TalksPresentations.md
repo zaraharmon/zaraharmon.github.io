@@ -9,7 +9,7 @@ author_profile: true
 
 ----The contribution of top-down and preceding-context cues to language production. (March 7th, 2022). Department of Hearing and Speech Sciences Seminar, University of Maryland.
 
-Going down the right path: The trade-off between preceding-context and top-down cues in language use. (February 3rd, 2022). Department of Linguistics, University of California, Santa Barbara.
+ul {padding-left: 10px;}Going down the right path: The trade-off between preceding-context and top-down cues in language use. (February 3rd, 2022). Department of Linguistics, University of California, Santa Barbara.
 
 Understanding automaticity in language. (November 17th, 2021). Computational Linguistics and Information Processing (CLIP) Colloquium, Institute for Advanced Computer Studies, University ofMaryland.
 
