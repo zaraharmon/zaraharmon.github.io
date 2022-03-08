@@ -8,14 +8,12 @@ author_profile: true
 ## Invited Talks
 
 | The contribution of top-down and preceding-context cues to language production. (March 7th, 2022). Department of Hearing and Speech Sciences Seminar, University of Maryland.
-|
 | The trade-off between preceding-context and top-down cues in language use. (February 3rd, 2022). Department of Linguistics, University of California, Santa Barbara.
-|
-|Understanding automaticity in language. (November 17th, 2021). Computational Linguistics and Information Processing (CLIP) Colloquium, Institute for Advanced Computer Studies, University ofMaryland.
 
-|
+| Understanding automaticity in language. (November 17th, 2021). Computational Linguistics and Information Processing (CLIP) Colloquium, Institute for Advanced Computer Studies, University ofMaryland.
+
 Accessibility: from creativity to impairment. (April 15th, 2021). Department of Psychology Language Group, Princeton University.
-|
+
 
 Mechanisms of over-extension in language production. (February 17th, 2021). Department of Language Science, University of California, Irvine.
 
