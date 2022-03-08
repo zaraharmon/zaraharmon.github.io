@@ -6,13 +6,23 @@ author_profile: true
 ---
 
 # Invited Talks
-- The contribution of top-down and preceding-context cues to language production. (March 7th, 2022). Department of Hearing and Speech Sciences Seminar, University of Maryland.
-- Going down the right path: The trade-off between preceding-context and top-down cues in language use. (February 3rd, 2022). Department of Linguistics, University of California, Santa Barbara.
-- Understanding automaticity in language. (November 17th, 2021). Computational Linguistics and Information Processing (CLIP) Colloquium, Institute for Advanced Computer Studies, University ofMaryland.
-- Accessibility: from creativity to impairment. (April 15th, 2021). Department of Psychology Language Group, Princeton University.
-- Mechanisms of over-extension in language production. (February 17th, 2021). Department of Language Science, University of California, Irvine.
-- Morphological productivity: What do we learn from comprehension and production?. (February 6th,2020). Language Science Lunch Talks, Language Science Center, University of Maryland.
+\begingroup
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+The contribution of top-down and preceding-context cues to language production. (March 7th, 2022). Department of Hearing and Speech Sciences Seminar, University of Maryland.
 
+Going down the right path: The trade-off between preceding-context and top-down cues in language use. (February 3rd, 2022). Department of Linguistics, University of California, Santa Barbara.
+
+Understanding automaticity in language. (November 17th, 2021). Computational Linguistics and Information Processing (CLIP) Colloquium, Institute for Advanced Computer Studies, University ofMaryland.
+
+Accessibility: from creativity to impairment. (April 15th, 2021). Department of Psychology Language Group, Princeton University.
+
+Mechanisms of over-extension in language production. (February 17th, 2021). Department of Language Science, University of California, Irvine.
+
+Morphological productivity: What do we learn from comprehension and production?. (February 6th,2020). Language Science Lunch Talks, Language Science Center, University of Maryland.
+
+\endgroup
 
 # Conference Presentations
 Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensationaccount of Developmental Language Disorder. Poster presented at the 62ndAnnual Meeting ofthe Psychonomic Society
