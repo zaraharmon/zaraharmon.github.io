@@ -21,7 +21,7 @@ Morphological productivity: What do we learn from comprehension and production?.
 
 
 # Conference Presentations
-Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensationaccount of Developmental Language Disorder. Poster presented at the 62ndAnnual Meeting ofthe Psychonomic Society.
+Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensationaccount of Developmental Language Disorder. Poster presented at the 62^nd Annual Meeting of the Psychonomic Society.
 
 Barak, L., Harmon, Z., Feldman, N., Edwards, J., & Shafto, P. (2021). A Computational analysis oflanguage delay and intervention. Talk presented at BUCLD 46.
 
@@ -31,13 +31,13 @@ Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The role of
 
 Barak, L., Harmon, Z., Feldman, N., Edwards, J., & Shafto, P. (2020). Bare form production for past-tense: A computational analysis of 3 accounts. Paper presented at BUCLD 45. Boston, MA.
 
-Harmon, Z. & Kapatsinski, V. (2020). The best-laid plan of mice and men: Competition between top-down and preceding-item cues in plan execution. Poster presented at the 42ndAnnual Conference ofthe Cognitive Science Society.
+Harmon, Z. & Kapatsinski, V. (2020). The best-laid plan of mice and men: Competition between top-down and preceding-item cues in plan execution. Poster presented at the 42^nd Annual Conference ofthe Cognitive Science Society.
 
-Kapatsinski, V., Harmon, Z., & Idemaru, K. (2020). Phonetic cue reweighting is error-driven anddimension-based. Poster presented at BUCLD 45. Boston, MA.
+Kapatsinski, V., Harmon, Z., & Idemaru, K. (2020). Phonetic cue reweighting is error-driven and dimension-based. Poster presented at BUCLD 45. Boston, MA.
 
-Harmon, Z., & Kapatsinski, V. (2018). Competition between top-down and preceding-item cues in speechproduction. Paper presented at the 59^th Annual Meeting of Psychonomic Society, New Orleans, LA.
+Harmon, Z., & Kapatsinski, V. (2018). Competition between top-down and preceding-item cues in speech production. Paper presented at the 59^th Annual Meeting of Psychonomic Society, New Orleans, LA.
 
-Harmon, Z., Idemaru, K., & Kapatsinski, V. (2017). Distributional learning in phonetic cue weighting:Letting go of a previously informative cue. Poster presented at BUCLD 42, Boston, MA.
+Harmon, Z., Idemaru, K., & Kapatsinski, V. (2017). Distributional learning in phonetic cue weighting: Letting go of a previously informative cue. Poster presented at BUCLD 42, Boston, MA.
 
 Harmon, Z., & Kapatsinski, V. (2017). Reconciling the effect of frequency on semantic extension in language acquisition and language change. Paper presented at Meaning in Flux: Connecting development, variation, and change. Yale University. New Haven, CT.
 
@@ -47,7 +47,7 @@ Harmon, Z., & Kapatsinski, V. (2017). Experimental evidence for niche seeking as
 
 Harmon, Z., Idemaru, K., & Kapatsinski, V. (2017). The power of a unimodal distribution in cuereweighting: Unimodality vs. prediction error as signs of cue irrelevance. Poster presented at the 173^rd Meeting of the Acoustical Society of America. Boston, MA.
 
-Harmon, Z., & Kapatsinski, V. (2016). Temporal structure of repetition disfluencies in American English.Poster presented at the 5^th Joint Meeting of the Acoustic Society of America. Honolulu, HI.
+Harmon, Z., & Kapatsinski, V. (2016). Temporal structure of repetition disfluencies in American English. Poster presented at the 5^th Joint Meeting of the Acoustic Society of America. Honolulu, HI.
 
 Harmon, Z., & Kapatsinski, V. (2016). Accessibility differences during production drive semantic(over-)extension. Paper presented at BUCLD 41. Boston, MA.
 
