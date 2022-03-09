@@ -6,18 +6,17 @@ author_profile: true
 ---
 
 ## Invited Talks
-<div style=“text-indent: -36px; padding-left: 36px;”>
-<p>The contribution of top-down and preceding-context cues to language production. (March 7<sup>th</sup>, 2022). Department of Hearing and Speech Sciences Seminar, University of Maryland, College Park.</p>
-</div>
+The contribution of top-down and preceding-context cues to language production. (March 7<sup>th</sup>, 2022). Department of Hearing and Speech Sciences Seminar, University of Maryland.
+
 The trade-off between preceding-context and top-down cues in language use. (February 3<sup>rd</sup>, 2022). Department of Linguistics, University of California, Santa Barbara.
 
-Understanding automaticity in language. (November 17<sup>th</sup>, 2021). Computational Linguistics and Information Processing (CLIP) Colloquium, Institute for Advanced Computer Studies, University of Maryland, College Park.
+Understanding automaticity in language. (November 17<sup>th</sup>, 2021). Computational Linguistics and Information Processing (CLIP) Colloquium, Institute for Advanced Computer Studies, University of Maryland.
 
 Accessibility: from creativity to impairment. (April 15<sup>th</sup>, 2021). Department of Psychology Language Group, Princeton University.
 
 Mechanisms of over-extension in language production. (February 17<sup>th</sup>, 2021). Department of Language Science, University of California, Irvine.
 
-Morphological productivity: What do we learn from comprehension and production? (February 6<sup>th</sup>, 2020). Language Science Lunch Talks, Language Science Center, University of Maryland, College Park.
+Morphological productivity: What do we learn from comprehension and production? (February 6<sup>th</sup>, 2020). Language Science Lunch Talks, Language Science Center, University of Maryland.
 
 
 # Conference Presentations
