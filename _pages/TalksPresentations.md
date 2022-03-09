@@ -14,7 +14,7 @@ author_profile: true
 -- Accessibility: from creativity to impairment. (April 15th, 2021). Department of Psychology Language Group, Princeton University.
 
 Mechanisms of over-extension in language production. (February 17th, 2021). Department of Language Science, University of California, Irvine.
-Morphological productivity: What do we learn from comprehension and production?. (February 6th,2020). Language Science Lunch Talks, Language Science Center, University of Maryland.
+- Morphological productivity: What do we learn from comprehension and production?. (February 6th,2020). Language Science Lunch Talks, Language Science Center, University of Maryland.
 
 
 # Conference Presentations
