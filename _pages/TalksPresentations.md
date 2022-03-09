@@ -19,7 +19,6 @@ Mechanisms of over-extension in language production. (February 17th, 2021). Depa
 
 # Conference Presentations
 Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensationaccount of Developmental Language Disorder. Poster presented at the 62ndAnnual Meeting ofthe Psychonomic Society.
-
 Barak, L., Harmon, Z., Feldman, N., Edwards, J., & Shafto, P. (2021). A Computational analysis oflanguage delay and intervention. Talk presented at BUCLD 46.
 
 Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). Making Heads or Tails of it: ACompetitionCompensation Account of Morphological Deficits in Language Impairment. Poster presented at the 43rdAnnual Conference of the Cognitive Science Society.
