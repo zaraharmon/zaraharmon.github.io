@@ -17,11 +17,11 @@ Accessibility: from creativity to impairment. (April 15th, 2021). Department of 
 
 Mechanisms of over-extension in language production. (February 17th, 2021). Department of Language Science, University of California, Irvine.
 
-Morphological productivity: What do we learn from comprehension and production?. (February 6th,2020). Language Science Lunch Talks, Language Science Center, University of Maryland.
+Morphological productivity: What do we learn from comprehension and production?. (February 6th, 2020). Language Science Lunch Talks, Language Science Center, University of Maryland.
 
 
 # Conference Presentations
-Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensationaccount of Developmental Language Disorder. Poster presented at the 62^nd Annual Meeting of the Psychonomic Society.
+Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensationaccount of Developmental Language Disorder. Poster presented at the 62<sup>nd</sup> Annual Meeting of the Psychonomic Society.
 
 Barak, L., Harmon, Z., Feldman, N., Edwards, J., & Shafto, P. (2021). A Computational analysis oflanguage delay and intervention. Talk presented at BUCLD 46.
 
