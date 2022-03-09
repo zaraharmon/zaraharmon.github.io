@@ -19,8 +19,8 @@ Mechanisms of over-extension in language production. (February 17<sup>th</sup>, 
 Morphological productivity: What do we learn from comprehension and production? (February 6<sup>th</sup>, 2020). Language Science Lunch Talks, Language Science Center, University of Maryland.
 
 
-# Conference Presentations
-Harmon, Z. Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensation account of Developmental Language Disorder. Poster presented at the 62<sup>nd</sup> Annual Meeting of the Psychonomic Society.
+## Conference Presentations
+**Harmon, Z.** Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensation account of Developmental Language Disorder. Poster presented at the 62<sup>nd</sup> Annual Meeting of the Psychonomic Society.
 
 Barak, L., Harmon, Z., Feldman, N., Edwards, J., & Shafto, P. (2021). A Computational analysis oflanguage delay and intervention. Talk presented at BUCLD 46.
 
