@@ -1,7 +1,7 @@
 ---
 title: "Learning Mechanisms in Cue Weighting"
 collection: publications
-permalink:
+permalink: publication/2019_Paper
 excerpt: ''
 date: 2017-08-06
 venue: 'Cognition'
