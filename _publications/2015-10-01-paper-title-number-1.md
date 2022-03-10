@@ -8,7 +8,7 @@ excerpt: 'Our work on accessibility (Harmon & Kapatsinski, 2017) and my disserta
 <br> - Semantic change results from extension of frequent forms to new uses.
 <br> - Extension of frequent forms to new uses occurs via accessibility in production.
 <br> - In contrast frequent forms are restricted to their original meanings in comprehension.
-<br> - Entrenchment in comprehension can curb (over-) extension in production.'
+<br> - Entrenchment in comprehension can curb (over-)extension in production.'
 
 date: 2017-08-06
 venue: 'Cognitive Psychology'
