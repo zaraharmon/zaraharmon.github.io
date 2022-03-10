@@ -6,7 +6,7 @@ excerpt: ''
 date: 2017-08-06
 venue: 'Cognitive Psychology'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010028517300154'
-citation: 'Harmon, Z., & Kapatsinski, V. (2017). Putting old tools to novel uses: The role of form accessibility in semantic extension. <i>Cognitive Psychology/<i>, 98, 22–44.'
+citation: 'Harmon, Z., & Kapatsinski, V. (2017). Putting old tools to novel uses: The role of form accessibility in semantic extension. <i>Cognitive Psychology</i>, 98, 22–44.'
 ---
 
 Our work on accessibility (Harmon & Kapatsinski, 2017) and my dissertation work (Harmon, 2019), demonstrates that high accessibility of a form results in the extension of that form to novel related contexts, an extension that is deemed less appropriate by the speakers when the production pressures are eliminated. 
