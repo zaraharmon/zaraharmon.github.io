@@ -10,4 +10,3 @@ citation: 'Harmon, Z., & Kapatsinski, V. (2021). A theory of repetition and retr
 ---
 
 [Download paper here](https://psycnet.apa.org/record/2021-62984-001)
-
