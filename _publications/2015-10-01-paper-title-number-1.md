@@ -2,13 +2,13 @@
 title: "Accessibility-driven Language Production"
 collection: publications
 permalink:
-excerpt: '<blockquote>Our work on accessibility (Harmon & Kapatsinski, 2017) and my dissertation work (Harmon, 2019), demonstrates that high accessibility of a form results in the extension of that form to novel related contexts, an extension that is deemed less appropriate by the speakers when the production pressures are eliminated.</blockquote>
+excerpt: '<blockquote>Our work on accessibility (Harmon & Kapatsinski, 2017) and my dissertation work (Harmon, 2019), demonstrates that high accessibility of a form results in the extension of that form to novel related contexts, an extension that is deemed less appropriate by the speakers when the production pressures are eliminated.
 <br>
 <br>   <b>Highlights</b>
 <br> - Semantic change results from extension of frequent forms to new uses.
 <br> - Extension of frequent forms to new uses occurs via accessibility in production.
 <br> - In contrast frequent forms are restricted to their original meanings in comprehension.
-<br> - Entrenchment in comprehension can curb (over-)extension in production.'
+<br> - Entrenchment in comprehension can curb (over-)extension in production.</blockquote>'
 
 date: 2017-08-06
 venue: 'Cognitive Psychology'
