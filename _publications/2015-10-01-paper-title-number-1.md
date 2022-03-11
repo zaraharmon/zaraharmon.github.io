@@ -22,3 +22,5 @@ My work also suggests that frequency of a form in the learner’s experience has
   
 The findings are important in two ways. First, my results reconcile contradictory findings in the literature. Frequency has been argued to result in both overgeneralization/extension (MacWhinney, 1978; Pinker, 1984; Slobin, 1971; Bybee, 2003) and entrenchment (Braine & Brooks, 1995; Xu & Tenenbaum, 2007). I show that it results in both, with extension in production and entrenchment in comprehension. Second, the work provides explanation for certain patterns of language structure and language change. The correlation between frequency and polysemy (e.g., higher number of meanings for have compared to possess) has been known for many years—since Zipf (1945)—but the direction of causality has been controversial (Bybee, 2003). My work shows, for the first time, that frequency can cause the extension of a form to novel related meanings, in turn, resulting in polysemy as well as productivity of accessible forms.
 
+[pdf]
+
