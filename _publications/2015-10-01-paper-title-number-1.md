@@ -12,7 +12,7 @@ excerpt: '<blockquote style="border: 2px solid #F8F5F5; padding: 10px; backgroun
 
 date: 2017-08-06
 venue: 'Cognitive Psychology'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010028517300154'
+paperurl: '[link](https://www.sciencedirect.com/science/article/pii/S0010028517300154 "Paper")'
 citation: 'Harmon, Z., & Kapatsinski, V. (2017). Putting old tools to novel uses: The role of form accessibility in semantic extension. <i>Cognitive Psychology</i>, 98, 22–44.'
 ---
 
