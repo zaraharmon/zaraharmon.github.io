@@ -4,7 +4,10 @@ collection: publications
 permalink: /publication/2022-10-01-paper-title-number-1
 excerpt: '<blockquote style="border: 2px solid #F8F5F5; padding: 10px; background-color: #F8F5F5;"> Children with developmental language disorder (DLD) regularly use the base form of verbs (e.g.,dance) instead of inflected forms (e.g., danced). Our work suggests that inconsistent use of inflectional morphemes by children with DLD could stem from a combination of processing difficulties that affect novelty detection combined with a resulting learned bias to rely on unanalyzed chunks.
 <br>
-  '
+<br>   <b>Highlights</b>
+<br>  &nbsp; - The competition–compensation account proposes that processing difficulties of children with DLD disproportionally affect processing novel inflected verbs in their input.
+<br>  &nbsp; - For children with DLD, the inflected form faces stronger competition from alternatives because these children infer a lower probability for the inflection in unfamiliar and novel contexts.
+<br>  &nbsp; - Competition is resolved through a compensatory behavior which involves producing a more accessible alternative with high phonological and semantic overlap with the inflected form: in English, the bare form.'
 date: 2021-10-01
 venue: 'CSS proceedings'
 paperurl: ''
