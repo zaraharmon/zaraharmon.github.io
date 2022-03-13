@@ -2,8 +2,9 @@
 title: "The Competition–Compensation Account of Developmental Language Disorder"
 collection: publications
 permalink: /publication/2022-10-01-paper-title-number-1
-excerpt: '<blockquote style="border: 2px solid #F8F5F5; padding: 10px; background-color: #F8F5F5;"> Children with developmental language disorder (DLD) regularly use the base form of verbs (e.g.,
-dance) instead of inflected forms (e.g., danced). '
+excerpt: '<blockquote style="border: 2px solid #F8F5F5; padding: 10px; background-color: #F8F5F5;"> Children with developmental language disorder (DLD) regularly use the base form of verbs (e.g.,dance) instead of inflected forms (e.g., danced). Our work suggests that inconsistent use of inflectional morphemes by children with DLD could stem from a combination of processing difficulties that affect novelty detection combined with a resulting learned bias to rely on unanalyzed chunks.
+<br>
+  '
 date: 2021-10-01
 venue: 'CSS proceedings'
 paperurl: ''
