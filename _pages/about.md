@@ -22,4 +22,5 @@ My research explores how speakers extend familiar forms to novel contexts, and f
 <li> Interaction between automaticity and creativity in language
 <li> Computational modeling including probabilistic and connectionist models
 <li> Usage-based and experience-based influences on language development and learning
+
 </blockquote>
