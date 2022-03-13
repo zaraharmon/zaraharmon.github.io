@@ -10,7 +10,7 @@ excerpt: '<blockquote style="border: 2px solid #F8F5F5; padding: 10px; backgroun
 <br>  &nbsp; - The Initiation Hypothesis claims that, after an interruption, speech is restarted from words that have occurred relatively unexpectedly in the speaker’s prior experi- ence. The Initiation Hypothesis attributes this effect to Cue Competition between preceding context and top-down cues: initiation from words that tend to occur in predictive preceding-word contexts is relatively unlikely because such words have a weaker association with top-down cues.</blockquote>'
 date: 2021-10-01
 venue: 'Psychological Review'
-paperurl: '<a href="https://psycnet.apa.org/record/2021-62984-001"> Article </a>'
+paperurl: '<a href="https://psycnet.apa.org/record/2021-62984-001"> Paper </a>'
 citation: 'Harmon, Z., & Kapatsinski, V. (2021). A theory of repetition and retrieval in language production. <i>Psychological Review</i>, 128(6), 1112–1144.'
 ---
 
