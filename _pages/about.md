@@ -18,8 +18,10 @@ My research explores how speakers extend familiar forms to novel contexts, and f
 ---
 
 ## Areas of Interest
+<blockquote style="border: 2px solid #F8F5F5; padding: 10px; background-color: #F8F5F5;"> 
 > - Computational modeling including probabilistic and connectionist models
 > - Usage-based and experience-based influences on language development and learning
 > - Automaticity, sequential learning, and chunking in language
 > - Accessibility-driven language production and its effect on generalization and semantic extension (creativity)
 > - Interaction between automaticity and creativity in language
+ </blockquote>
