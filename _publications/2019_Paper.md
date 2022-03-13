@@ -6,7 +6,7 @@ excerpt: '<blockquote style="border: 2px solid #F8F5F5; padding: 10px; backgroun
 date: 2019-08-06
 venue: 'Cognition'
 paperurl: ''
-citation: 'Harmon, Z., Idemaru, K., & Kapatsinski, V. (2019). Learning mechanisms in cue reweighting. <i>Cognition</i>, <i>189</i>, 76–88. <a href="https://www.linguisticsociety.org/sites/default/files/e-learning/HarmonIdemaruKapatsinski2019.pdf"[Paper]</a>'
+citation: 'Harmon, Z., Idemaru, K., & Kapatsinski, V. (2019). Learning mechanisms in cue reweighting. <i>Cognition</i>, <i>189</i>, 76–88. <a href="https://www.linguisticsociety.org/sites/default/files/e-learning/HarmonIdemaruKapatsinski2019.pdf">[Paper]</a>'
 ---
 
 
