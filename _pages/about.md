@@ -15,11 +15,8 @@ After completing my PhD, I joined the University of Maryland UMIACS and the Depa
 
 My research explores how speakers extend familiar forms to novel contexts, and factors that influence the ease or difficulty of this process. More specifically, I study how contextual cues and top-down cues influence generalization and productivity, and how these cues interact during learning. See my publication page for more information. I am currently a member of the Computational Linguistics and Information Processing (CLIP) lab.
 
----
-
 ## Areas of Interest
-<blockquote style="border: 2px solid #F8F5F5; padding: 10px; background-color: #F8F5F5;"> 
-- Automaticity, sequential learning, and chunking in language
+<blockquote style="border: 2px solid #F8F5F5; padding: 10px; background-color: #F8F5F5;"> - Automaticity, sequential learning, and chunking in language
 <br> - Accessibility-driven language production and its effect on generalization and semantic extension (creativity)
 <br> - Interaction between automaticity and creativity in language
 <br> - Computational modeling including probabilistic and connectionist models
