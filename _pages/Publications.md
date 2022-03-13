@@ -30,7 +30,7 @@ Harmon, Z., & Kapatsinski, V. (2016). Fuse to be used: A weak cues guide to attr
 Proceedings of the Annual Conference of the Cognitive Science Society, *38*, 520–525. [[pdf]](https://cogsci.mindmodeling.org/2016/papers/0101/paper0101.pdf)
 
 Harmon, Z., & Kapatsinski, V. (2016). Determinants of lengths of repetition disfluencies: Probabilistic
-syntactic constituency in speech production. *Chicago Linguistic Society*, *50*, 237–248.
+syntactic constituency in speech production. *Chicago Linguistic Society*, *50*, 237–248.[[pdf]](https://cpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/a/6941/files/2014/11/HarmonKapatsinski_CLS50-2me6d8s.pdf)
 
 Harmon, Z., & Kapatsinski, V. (2015). Studying the dynamics of lexical access using disfluencies.
-*Proceedings of Disfluencies in Spontaneous Speech*, *7*, 41–44.
+*Proceedings of Disfluencies in Spontaneous Speech*, *7*, 41–44. [[Paper]](https://www.ida.liu.se/~robek28/conferences/diss2017/DiSS2015_Papers.pdf#page=45)
