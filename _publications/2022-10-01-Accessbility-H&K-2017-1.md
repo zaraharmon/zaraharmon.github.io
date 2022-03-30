@@ -1,7 +1,7 @@
 ---
 title: "Accessibility-driven Language Production"
 collection: publications
-permalink: publication/2022-10-01-Accessbility-H&K-2017-1
+permalink: /publication/2022-10-01-Accessbility-H&K-2017-1
 excerpt: '<blockquote style="border: 2px solid #F8F5F5; padding: 10px; background-color: #F8F5F5;"> Our work on accessibility (Harmon & Kapatsinski, 2017) and my dissertation work (Harmon, 2019), demonstrates that high accessibility of a form results in the extension of that form to novel related contexts, an extension that is deemed less appropriate by the speakers when the production pressures are eliminated.
 <br>
 <br>   <b>Highlights</b>
