@@ -17,6 +17,7 @@ I am a post-doctoral associate at the [University of Maryland Institute for Adva
 <blockquote style="border: 2px solid #F8F5F5; padding: 10px; background-color: #F8F5F5;"> 
 <li> Automaticity, sequential learning, and chunking in language
 <li> Accessibility-driven language production and its effect on generalization and semantic extension (creativity)
+<li> Cue integration and cue competition in language and speech
 <li> Interaction between automaticity and creativity in language
 <li> Computational modeling including probabilistic and connectionist models
 <li> Usage-based and experience-based influences on language development and learning
