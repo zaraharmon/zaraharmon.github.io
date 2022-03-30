@@ -26,11 +26,11 @@ Barak, L., **Harmon, Z.**, Feldman, N., Edwards, J., & Shafto, P. (2021). A Comp
 
 **Harmon, Z.**, Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). Making Heads or Tails of it: A Competition&ndash;Compensation Account of Morphological Deficits in Language Impairment. Poster presented at the 43<sup>rd</sup> Annual Conference of the Cognitive Science Society.
 
-**Harmon, Z.**, Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The role of novelty inaccounting formorphological deficits of children with Developmental Language Disorder: A computational modelingstudy. Poster presented at the 41<sup>st</sup> Annual, Virtual Symposium on Research in Child Language Disorders.
+**Harmon, Z.**, Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The role of novelty in accounting for morphological deficits of children with Developmental Language Disorder: A computational modeling study. Poster presented at the 41<sup>st</sup> Annual, Virtual Symposium on Research in Child Language Disorders.
 
 Barak, L., **Harmon, Z.**, Feldman, N., Edwards, J., & Shafto, P. (2020). Bare form production for past-tense: A computational analysis of 3 accounts. Paper presented at BUCLD 45. Boston, MA.
 
-**Harmon, Z.**, & Kapatsinski, V. (2020). The best-laid plan of mice and men: Competition between top-down and preceding-item cues in plan execution. Poster presented at the 42<sup>nd</sup> Annual Conference ofthe Cognitive Science Society.
+**Harmon, Z.**, & Kapatsinski, V. (2020). The best-laid plan of mice and men: Competition between top-down and preceding-item cues in plan execution. Poster presented at the 42<sup>nd</sup> Annual Conference of the Cognitive Science Society.
 
 Kapatsinski, V., **Harmon, Z.**, & Idemaru, K. (2020). Phonetic cue reweighting is error-driven and dimension-based. Poster presented at BUCLD 45. Boston, MA.
 
@@ -40,7 +40,7 @@ Kapatsinski, V., **Harmon, Z.**, & Idemaru, K. (2020). Phonetic cue reweighting 
 
 **Harmon, Z.**, & Kapatsinski, V. (2017). Reconciling the effect of frequency on semantic extension in language acquisition and language change. Paper presented at Meaning in Flux: Connecting development, variation, and change. Yale University. New Haven, CT.
 
-**Harmon, Z.**, & Kapatsinski, V. (2017). The interaction between entrenchment and extension in languagechange. Paper presented at the 14<sup>th</sup> International Conference on Cognitive Linguistics, Tartu, Estonia.
+**Harmon, Z.**, & Kapatsinski, V. (2017). The interaction between entrenchment and extension in language change. Paper presented at the 14<sup>th</sup> International Conference on Cognitive Linguistics, Tartu, Estonia.
 
 **Harmon, Z.**, & Kapatsinski, V. (2017). Experimental evidence for niche seeking as a result of competition in comprehension. Paper presented at the 50<sup>th</sup> Annual Meeting of the Societas Linguistica Europaea, Zurich, Switzerland.
 
