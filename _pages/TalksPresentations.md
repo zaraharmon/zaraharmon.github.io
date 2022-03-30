@@ -20,11 +20,11 @@ Morphological productivity: What do we learn from comprehension and production? 
 
 
 ## Conference Presentations
-**Harmon, Z.**, Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition–compensation account of Developmental Language Disorder. Poster presented at the 62<sup>nd</sup> Annual Meeting of the Psychonomic Society.
+**Harmon, Z.**, Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The competition&ndash;compensation account of Developmental Language Disorder. Poster presented at the 62<sup>nd</sup> Annual Meeting of the Psychonomic Society.
 
 Barak, L., **Harmon, Z.**, Feldman, N., Edwards, J., & Shafto, P. (2021). A Computational analysis oflanguage delay and intervention. Talk presented at BUCLD 46.
 
-**Harmon, Z.**, Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). Making Heads or Tails of it: A CompetitionCompensation Account of Morphological Deficits in Language Impairment. Poster presented at the 43<sup>rd</sup> Annual Conference of the Cognitive Science Society.
+**Harmon, Z.**, Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). Making Heads or Tails of it: A Competition&ndash;Compensation Account of Morphological Deficits in Language Impairment. Poster presented at the 43<sup>rd</sup> Annual Conference of the Cognitive Science Society.
 
 **Harmon, Z.**, Barak, L., Shafto, P., Edwards, J., & Feldman, N. (2021). The role of novelty inaccounting formorphological deficits of children with Developmental Language Disorder: A computational modelingstudy. Poster presented at the 41<sup>st</sup> Annual, Virtual Symposium on Research in Child Language Disorders.
 
