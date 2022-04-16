@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Invited Talks
-Mechanisms of cue weighting. (March 30<sup>th</sup>, 2022). Language and Brain Lab. Department of Speech, Language, and Hearing Sciences \& Department of Psychological Sciences, University of Connecticut.
+Mechanisms of cue weighting. (March 30<sup>th</sup>, 2022). Language and Brain Lab. Department of Speech, Language, and Hearing Sciences & Department of Psychological Sciences, University of Connecticut.
 
 The contribution of top-down and preceding-context cues to language production. (March 7<sup>th</sup>, 2022). Department of Hearing and Speech Sciences Seminar, University of Maryland.
 
