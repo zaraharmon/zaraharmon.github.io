@@ -5,9 +5,10 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-1407 Marie Mount Hall\
-College Park, MD 20742
+Wundtlaan 1\
+6525 XD Nijmegen\
+The Netherlands
 
-zharmon [at] umd [dot] edu
+zara.harmon [at] mpi [dot] nl
 
 [Google Scholar](https://scholar.google.com/citations?user=k9OkYpwAAAAJ&hl=en&oi=ao)
