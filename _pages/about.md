@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently at the Max Planck Institute for Psycholinguistics.
+I am currently at the Max Planck Institute for Psycholinguistics. More information coming soon, but please see my contact page for contact information.
 
 ***
 
