@@ -10,6 +10,6 @@ Wundtlaan 1\
 6525 XD Nijmegen\
 The Netherlands
 
-zara.harmon [at] mpi [dot] nl
+zara [dot] harmon [at] mpi [dot] nl
 
 [Google Scholar](https://scholar.google.com/citations?user=k9OkYpwAAAAJ&hl=en&oi=ao)
