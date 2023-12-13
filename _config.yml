@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zara Harmon"
   avatar           : "photo2_zh.png"
-  bio              : "Post-doctoral Associate \ University of Maryland Institute for Advanced Computer Studies (UMIACS)"
-  location         : "College Park, MD"
+  bio              : "Post-doctoral Researcher \ Max Planck Institute for Psycholinguistics"
+  location         : "Nijmegen, The Netherlands"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=zara+harmon"
   googlescholar    : "https://scholar.google.com/citations?user=k9OkYpwAAAAJ&hl=en&oi=ao"
-  email            : "zharmon@umd.edu"
+  email            : "zara.harmon@mpi.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
