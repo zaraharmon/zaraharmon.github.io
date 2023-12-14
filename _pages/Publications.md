@@ -5,6 +5,13 @@ permalink: /Publications/
 author_profile: true
 ---
 
+Harmon, Z., Barak, L., Shafto, P., Edwards, J., & Feldman, N. H. (2023). The competition–compensation
+account of developmental language disorder. *Developmental Science*, *e13364*. [[Paper]](https://onlinelibrary.wiley.com/doi/pdf/10.1111/desc.13364)
+
+Barak, L., Harmon, Z., Feldman, N. H., Edwards, J. & Shafto, P. (2023). When children’s production
+deviates from observed input: modeling the variable production of the English past tense. *Cognitive
+Science*, *e13328*. [[Paper]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.13328)
+
 Harmon, Z., & Kapatsinski, V. (2021). A theory of repetition and retrieval in language production.
 *Psychological Review*. *128*(6), 1112–1144. [[Paper]](https://psycnet.apa.org/record/2021-62984-001)
 
